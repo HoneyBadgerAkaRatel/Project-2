@@ -1,0 +1,12 @@
+current_answer = int(input("Veuillez répondre à la dernière question posée:"))
+
+
+#SP1: Récup réponse
+
+#SP2: Vérifier si réponse est bonne dans liste QCM
+
+#SP3: En fonction de si réponse est bonne: Ajouter note au 3 variables du systeme de cotation
+
+#SP4: Demander quel systeme de cotation afficher
+
+#SP5: Faire les deux systeme d'affichage de réponses (Soit 1(choisie en SP4) soit les 3)
